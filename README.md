@@ -1,0 +1,2 @@
+# hello-friend
+friendly bot
